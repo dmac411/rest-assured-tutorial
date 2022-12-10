@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dominique
+Build-Jdk: 17.0.3
+Implementation-Title: rest-assured-tutorial
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: org.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/rest-assured-tutorial
+Created-By: Maven Integration for Eclipse
+

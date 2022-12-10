@@ -1,0 +1,14 @@
+com\onlyfullstack\springrestexample\oauth\ResourceServerConfiguration.class
+com\onlyfullstack\springrestexample\exception\handler\EmployeeExceptionHandler.class
+com\onlyfullstack\springrestexample\datatransferobject\ErrorDetails.class
+com\onlyfullstack\springrestexample\RestAssuredApplication.class
+com\onlyfullstack\springrestexample\exception\EntityNotFoundException.class
+com\onlyfullstack\springrestexample\datatransferobject\EmployeeDTO.class
+com\onlyfullstack\springrestexample\oauth\AuthorizacionServerConfiguration.class
+com\onlyfullstack\springrestexample\service\EmployeeService.class
+com\onlyfullstack\springrestexample\controller\StudentController.class
+com\onlyfullstack\springrestexample\datatransferobject\StudentDTO.class
+com\onlyfullstack\springrestexample\domainobject\EmployeeDO.class
+com\onlyfullstack\springrestexample\controller\EmployeeController.class
+com\onlyfullstack\springrestexample\oauth\WebSecurityConfiguration.class
+com\onlyfullstack\springrestexample\repositoy\EmployeeRepository.class

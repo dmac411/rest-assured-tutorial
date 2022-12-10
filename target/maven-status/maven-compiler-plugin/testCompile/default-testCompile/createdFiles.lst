@@ -1,0 +1,11 @@
+onlyfullstack\httpMethods\GetHttpMethodExample.class
+onlyfullstack\httpMethods\PutHttpMethodExample.class
+onlyfullstack\httpMethods\PostHttpMethodExample.class
+onlyfullstack\inputBodyWays\HttpPostBodyWays.class
+onlyfullstack\verifyResponse\XmlPathExample.class
+onlyfullstack\models\Student.class
+onlyfullstack\verifyResponse\JsonPathExample.class
+onlyfullstack\models\Employee.class
+onlyfullstack\verifyResponse\ResponseValidatorTypes.class
+onlyfullstack\authorization\OAuth2AuthorizationTest.class
+onlyfullstack\httpMethods\DeleteHttpMethodExample.class
